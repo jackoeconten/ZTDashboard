@@ -1,4 +1,4 @@
 # ZTDashboard
 Zelt-tech Dashboard
 
-Feed Parser to CouchDB
+Feed Parser for CouchDB
